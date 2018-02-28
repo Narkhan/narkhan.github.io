@@ -1,0 +1,90 @@
+html{
+/*    background-color: #FFF;
+*/}
+.info{
+    height: 2hv;
+    background-color:floralwhite;
+}
+.name-class {margin:0;padding:0;list-style:none;height: 6vh; background-color: #515151;}
+.name-class li {float: left; margin-left: 125px; margin-right: 50px; font-family: 'Merriweather', serif; margin-top: 10px;}
+.name-class li a{
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+}
+.name-class li a:hover{
+    color:beige;
+}
+.main{
+    background-image: url(sq.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 94vh;;
+    color: white;
+    text-align:center;
+    flex-direction: column;
+    display: block;
+    align-content: center;
+    justify-content: center;
+    color:white;
+}
+.d1{
+    font-size: 100px;
+    font-family: serif;
+}
+.d2{
+    font-family: serif;
+    font-size: 50px;
+}
+.end{
+    background-color: #061634;
+    color: #6479a2;
+    padding-bottom: 190px;
+    padding-top: 90px;
+}
+.container{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.row : after{
+    clear: both;
+    content: "";
+    display: table;
+}
+.d4{
+    width: 300px;
+    margin-right: 100px;
+    float: left;
+}
+.end p{
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+p.name{
+    font-size: 30px;
+    line-height: normal;
+    margin-bottom: 10px;
+    font-family: 'Merriweather', serif;
+}
+p.num{
+    font-size: 20px;
+    line-height: normal;
+    margin-bottom: 10px;
+    font-family: serif;
+}
+p.social{
+    color: #FFF;
+    font-size: 28px;
+    font-family: serif;
+}
+p.icon{
+    margin-left: 40px;
+    color: #FFF;
+    font-size: 32px;
+}
+p.icon a{
+    color: white;
+    text-decoration: none;
+}
