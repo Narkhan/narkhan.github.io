@@ -5,6 +5,9 @@ html{
     height: 2hv;
     background-color:floralwhite;
 }
+a{
+    transition: 0.3s ease-out;
+}
 .name-class {margin:0;padding:0;list-style:none;height: 6vh; background-color: #061634;}
 .name-class li {float: left; margin-left: 155px; margin-right: 50px; color: #6479d2; font-family: 'Merriweather', serif; margin-top: 10px;}
 .name-class li a{
