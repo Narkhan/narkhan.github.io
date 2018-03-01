@@ -39,6 +39,15 @@ a{
     font-family: serif;
     font-size: 50px;
 }
+.taglink a{
+    font-family:serif;
+    font-size: 20px;
+    color:white;
+    text-decoration: none;
+}
+.taglink a:hover{
+    color:beige;
+}
 .end{
     background-color: #061634;
     color: #6479a2;
