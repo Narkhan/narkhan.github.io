@@ -23,7 +23,7 @@ a{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 94vh;;
+    height: 94vh;
     color: white;
     text-align:left;
     flex-direction: column;
@@ -35,10 +35,12 @@ a{
 .d1{
     font-size: 100px;
     font-family: serif;
+    margin-left:50px;
 }
 .d2{
     font-family: serif;
     font-size: 50px;
+    margin-left:60px;
 }
 .end{
     background-color: #061634;
