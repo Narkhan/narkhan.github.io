@@ -8,7 +8,7 @@ html{
 a{
     transition: 0.2s ease-out;
 }
-.name-class {margin:0;padding:0;list-style:none;height: 6vh; background-color: #061634;}
+.name-class {margin:0;padding:0;list-style:none;height: 6vh; background-color: cornflowerblue;}
 .name-class li {float: left; margin-left: 80px; margin-right: 50px; color: #6479d2; font-family: 'Merriweather', serif; margin-top: 10px;}
 .name-class li a{
     font-size: 25px;
@@ -43,7 +43,7 @@ a{
     margin-left:60px;
 }
 .end{
-    background-color: #061634;
+    background-color: cornflowerblue;
     color: #6479a2;
     padding-bottom: 190px;
     padding-top: 90px;
