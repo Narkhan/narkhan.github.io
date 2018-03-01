@@ -32,16 +32,12 @@ a{
     justify-content: center;
 }
 .d1{
-    font-size: 100px;
+    font-size: 80px;
     font-family: serif;
-}
-.d2{
-    font-family: serif;
-    font-size: 50px;
 }
 .taglink a{
     font-family:serif;
-    font-size: 35px;
+    font-size: 30px;
     color:white;
     text-decoration: none;
 }
