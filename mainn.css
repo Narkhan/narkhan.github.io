@@ -44,6 +44,8 @@ a{
     font-size: 20px;
     color:white;
     text-decoration: none;
+    margin-left:300px;
+    margin-right:300px;
 }
 .taglink a:hover{
     color:beige;
