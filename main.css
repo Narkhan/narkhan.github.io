@@ -9,7 +9,7 @@ a{
     transition: 0.2s ease-out;
 }
 .name-class {margin:0;padding:0;list-style:none;height: 6vh; background-color: #061634;}
-.name-class li {float: left; margin-left: 50px; margin-right: 50px; color: #6479d2; font-family: 'Merriweather', serif; margin-top: 10px;}
+.name-class li {float: left; margin-left: 150px; margin-right: 50px; color: #6479d2; font-family: 'Merriweather', serif; margin-top: 10px;}
 .name-class li a{
     font-size: 25px;
     color: white;
