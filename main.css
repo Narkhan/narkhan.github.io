@@ -91,3 +91,6 @@ p.icon a{
     color: white;
     text-decoration: none;
 }
+p.icon a:hover{
+    color:aqua;
+}
