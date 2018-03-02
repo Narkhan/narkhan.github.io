@@ -40,6 +40,7 @@ a{
     font-family:serif;
     font-size: 25px;
     color:white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     text-decoration: none;
 }
 .taglink a p{
