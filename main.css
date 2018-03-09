@@ -16,7 +16,7 @@ a{
     text-decoration: none;
 }
 .name-class li a:hover{
-    color:beige;
+    color:aqua;
 }
 .main{
     background-image: url(sq.jpg);
